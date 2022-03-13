@@ -1,0 +1,9 @@
+# site settings
+title: my jekyll website
+author:
+  name: Dick Turpshead
+  email: dickturpshead@gmail.com
+description: "first try at jekyll"
+
+# build settings
+remote_theme: jekyll/minima
