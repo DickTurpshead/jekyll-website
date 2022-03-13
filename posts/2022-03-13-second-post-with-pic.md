@@ -8,7 +8,7 @@ categories: demo
 more text to show - adding an image from a website needs some alternative text in [] & address in ()
 
 
-(https://www.pexels.com/photo/different-flowers-shaped-in-word-peace-3112898/)
+[alt]  (https://www.pexels.com/photo/different-flowers-shaped-in-word-peace-3112898/)
 
 some other text
 
