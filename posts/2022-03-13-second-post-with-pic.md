@@ -1,7 +1,7 @@
 ---
 layout: post
 title: my second post on jekyll
-tags: second markdown example
+tags: markdown example
 categories: demo
 ---
 
