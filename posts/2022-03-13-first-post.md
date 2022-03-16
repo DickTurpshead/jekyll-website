@@ -15,4 +15,4 @@ font can be *italic* or **bold**
 code can be highlighted with `backticks`. (left top on keyboad under the 'tild')
 
 
-new line - 2 or more still just does 1 new line
+new line - 2 or more still just does 1 new line 
