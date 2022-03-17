@@ -8,7 +8,9 @@ categories: demo
 more text to show - adding an image from a website needs some alternative text in [] & address in ()
 
 
-![alt](https://www.pexels.com/photo/different-flowers-shaped-in-word-peace-3112898/)
+![alt text white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
+
+i found this at[image of white cat](https://commons.wikimedia.org/wiki/File:VAN_CAT.png)
 
 some other text
 
