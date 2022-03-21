@@ -29,3 +29,18 @@ A numbered list is created using a number + `.`, like:
 2. two
 6. three
 2. four
+
+Horizontal rule:
+
+--------------
+
+> A block quote.
+> Is like this.
+
+A table:
+
+| header | column a | column b |
+| --- | --- | --- |
+| dogs | 3 | 6 |
+| cats | 3 | 6 |
+| muffins | 15 | 30 |
