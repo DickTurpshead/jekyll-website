@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: default
 title: display-my-data
 example: This is an example value.
 ---
