@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+example: some example text
 ---
 
 Some Markdown content describing your site.
