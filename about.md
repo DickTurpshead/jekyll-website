@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: dark
 title: About
-example-text: this is some example text - usein "" if more than 1 line
+example: This is an example value.
 ---
 
-This page describes the amazing {{ site.title }}  by  {{ site.author.name }}.
+This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 {{ page.example }}
 
 {% include big-cat.html %}
@@ -17,4 +17,5 @@ It is your opportunity to let us know all the details "about" your project:
 - focus and topic area
 - people involved
 - code and projects used
+
 - 
