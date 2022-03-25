@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About
-example: some example text
+example-text: this is some example text - usein "" if more than 1 line
 ---
 
-Some Markdown content describing your site.
+This page describes the amazing {{ site.title }}  by  {{ site.author.name }}.
+{{ page.example }}
+
+{% include big-cat.html %}
 
 ## About About Pages
 
