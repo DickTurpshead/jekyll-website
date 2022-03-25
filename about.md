@@ -1,11 +1,11 @@
 ---
 layout: dark
 title: About
-example: This is an example value.
+example-text: This is an example value. use "" if >1 line
 ---
 
 This page describes the amazing {{ site.title }} by {{ site.author.name }}.
-{{ page.example }}
+{{ page.example-text }}
 
 {% include big-cat.html %}
 
