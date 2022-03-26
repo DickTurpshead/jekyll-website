@@ -18,4 +18,4 @@ some more text
 
 more shit
 
-{% include figure.html img="/_pics/defect.jpg" alt="Summit" width="75%" %}
+{% include figure.html img= /_pics/defect.jpg alt="Summit" width="75%" %}
