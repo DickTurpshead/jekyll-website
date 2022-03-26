@@ -17,5 +17,3 @@ some more text
 ![This is an image](/_pics/defect.jpg)
 
 more shit
-
-{% include figure.html img= /_pics/defect.jpg alt="Summit" width="75%" %}
