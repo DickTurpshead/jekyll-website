@@ -1,5 +1,5 @@
 ---
-layout: light
+layout: default
 title: tryout
 example-text: This is an example value. use "" if >1 line
 ---
