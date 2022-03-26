@@ -14,6 +14,8 @@ This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 some more text
 
 
-![This is an image](/_pics/defect.jpg)
+![This is a defect image](/_pics/defect.jpg)
 
 more shit
+
+![This is a "lost" image](/_pics/lostR2.png)
